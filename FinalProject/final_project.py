@@ -11,7 +11,7 @@ APPLE_II_HEIGHT_ACTUAL = 192  # Actual pixel height of Apple II screen
 MONOCHROME_POSITIVE_TUPLE = (107, 196, 71)  # RGB values that approximate the appearance of a green monochrome monitor's positive space
 MONOCHROME_NEGATIVE_TUPLE = (16, 29, 11)  # RGB values that approximate the appearance of a green monochrome monitor's negative space
 
-DEFAULT_FILE = 'images/geese.jpg'  # 6000 x 4000 pixels    6000/580=10.344827586   4000/384=10.416666667   Height is greater dimension, scale by 10.42?
+DEFAULT_FILE = 'images/balldog.jpg'  # 6000 x 4000 pixels    6000/580=10.344827586   4000/384=10.416666667   Height is greater dimension, scale by 10.42?
 
 def main():
     """
