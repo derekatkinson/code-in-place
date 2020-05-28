@@ -10,3 +10,6 @@ https://youtu.be/sBYXPGXuqno
 This program was created with Python 3 and [Pillow](https://pypi.org/project/Pillow/2.2.1/#installation).
 
 ![Code in Place Spring 2020 Derek Atkinson @INKSaTON](https://github.com/derekatkinson/code-in-place/blob/master/final-project_title-slide.png)
+
+## License
+https://github.com/derekatkinson/code-in-place/blob/master/LICENSE
