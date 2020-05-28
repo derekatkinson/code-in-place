@@ -1,4 +1,4 @@
-# code-in-place
+# Apple II-ify
 Final project for Code in Place 2020
 
 This is a program written in Python that takes an image as input and outputs a version of the image that is reminiscent of graphics on a monochrome Apple II monitor.
